@@ -14,7 +14,7 @@
       
       <guid>https://danielost.github.io/posts/gsoc23/</guid>
       <description>Project Information Student: Danylo Ostapchenko Organization: Scala Center Mentor: Noel Welsh Project: Data Visualization Overview Google Summer of Code 2023 is almost done, and it&amp;rsquo;s time to wrap things up. I worked on improving the Doodle library for compositional vector graphics by adding support for Data Visualization (i.e. data plotting). The project is called Chartreuse, and here&amp;rsquo;s my progress report.
-Work Report Add Plot representation - !5 Earlier, plots in Doodle were created from scratch.</description>
+Work Report Add Plot representation - #5 Earlier, plots in Doodle were created from scratch.</description>
     </item>
     
   </channel>
